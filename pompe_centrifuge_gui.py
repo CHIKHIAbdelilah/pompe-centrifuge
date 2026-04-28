@@ -1,6 +1,5 @@
 """
 Pré-dimensionnement d'une roue de pompe centrifuge
-Interface graphique — Python / Tkinter (aucune installation requise)
 
 Lancement : python pompe_centrifuge_gui.py
 """
