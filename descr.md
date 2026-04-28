@@ -32,7 +32,7 @@ Il couvre toutes les étapes de la méthode classique :
 
 ## 📤 Résultats fournis
 
-- **Nsh** — vitesse spécifique + type de roue (radiale / mixte / axiale)
+- **Ns** — vitesse spécifique + type de roue (radiale / mixte / axiale)
 - **PC, PCM** — puissance pompe et moteur (W / kW)
 - **d_sh** — diamètre d'arbre (mm)
 - **d_h** — plage diamètre de moyeu (mm)
@@ -56,7 +56,7 @@ Le programme signale automatiquement :
 ## 🛠️ Prérequis
 
 - Python 3.x
-- Aucune bibliothèque externe (uniquement `math`, `tkinter`, `ipywidgets` selon la version)
+- Turbomachine 
 
 ---
 
@@ -64,7 +64,7 @@ Le programme signale automatiquement :
 
 Méthode basée sur :
 > Stepanoff, A.J. — *Centrifugal and Axial Flow Pumps* — Wiley, 1957
-
+> Dhiman chatterjee  - *Design and CFD of Turbomachines*
 ---
 
 ## 👤 Auteur
